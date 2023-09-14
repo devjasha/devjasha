@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://api.daily.dev/devcards/49715459d3474e6eba829fe85918f995.png?r=rpd
+<a href="https://app.daily.dev/jashadev"><img src="https://api.daily.dev/devcards/49715459d3474e6eba829fe85918f995.png?r=rpd" width="400" alt="Jasha Chec's Dev Card"/></a>
 
 <!--
 **devjasha/devjasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
