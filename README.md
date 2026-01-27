@@ -3,5 +3,7 @@
 <img align="right" src="ZAbj.gif" height="200" width="auto" />
 <div align="left">
   <p align="left">My name is Jasha a developer based in Hamburg.</p>  
-  ![My Pullsy Badges](https://pullsy-rho.vercel.app/api/badges/widget?user=xEnqBkmosTDPRamBVSlx37mbnpXLTeLX)
 </div>
+
+
+![My Pullsy Badges](https://pullsy-rho.vercel.app/api/badges/widget?user=xEnqBkmosTDPRamBVSlx37mbnpXLTeLX)
